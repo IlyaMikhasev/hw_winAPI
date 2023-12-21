@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw_winAPI", "hw_winAPI.csproj", "{16015D2A-25CB-4D7D-BAEE-7D0FF278A543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16015D2A-25CB-4D7D-BAEE-7D0FF278A543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16015D2A-25CB-4D7D-BAEE-7D0FF278A543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16015D2A-25CB-4D7D-BAEE-7D0FF278A543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16015D2A-25CB-4D7D-BAEE-7D0FF278A543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {728E5D25-DD6E-4E69-B291-B957891E5EC9}
+	EndGlobalSection
+EndGlobal
